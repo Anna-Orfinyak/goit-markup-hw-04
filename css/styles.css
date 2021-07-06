@@ -163,9 +163,8 @@ img {
   text-decoration: none;
 }
 .contacts-nav .link:hover,
-.contacts-nav .link:focus{
+.contacts-nav .link:focus {
   color: var(--accent-color);
-  
 }
 
 /* hero */
@@ -275,8 +274,8 @@ img {
   padding-bottom: 94px;
 }
 .team > .container {
-   display: flex;
-   margin-bottom: 0px;
+  display: flex;
+  margin-bottom: 0px;
 }
 .team > .container > .item {
   width: calc((100%-90px) / 4);
@@ -556,7 +555,7 @@ img {
   text-transform: uppercase;
   text-align: left;
   font-size: 14px;
-} 
+}
 .footer-sn {
   display: flex;
   flex-direction: column;
@@ -570,12 +569,12 @@ img {
   /* align-items: center; */
   list-style: none;
   padding-left: 0px;
-}  
+}
 .footer-sn-link {
   display: flex;
   justify-content: center;
   align-items: center;
-  
+
   width: 44px;
   height: 44px;
   border: none;
@@ -592,3 +591,4 @@ img {
   border-radius: 50%;
   fill: var(--primary-white-color);
   background-color: var(--accent-color);
+}
