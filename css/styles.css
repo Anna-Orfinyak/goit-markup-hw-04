@@ -472,7 +472,7 @@ height: 4px;
 
 .footer-container {
   display: flex;
-  align-items: base-line;
+  align-items: baseline;
   /* gap: 120px; */
 }
 
@@ -506,7 +506,7 @@ height: 4px;
 
 .footer-sn-list {
   display: flex;
-  align-items: base-line;
+  
   justify-content: center;
   gap: 16px;
 }
